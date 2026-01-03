@@ -1,23 +1,26 @@
-[
-  { "Dino": "Achatina", "Taming": "Feed Sweet Vegetable Cake passively" },
-  { "Dino": "Andrewsarchus", "Taming": "Ride using a saddle and feed while maintaining control and avoiding loss of courage" },
-  { "Dino": "Basilosaurus", "Taming": "Passive tame while killing attacking Mantas between feedings" },
-  { "Dino": "Bloodstalker", "Taming": "Allow it to grab you and consume Blood Packs until tamed" },
-  { "Dino": "Dinopithecus", "Taming": "Passive tame by feeding while avoiding its aggression state" },
-  { "Dino": "Dung Beetle", "Taming": "Feed Spoiled Meat or Feces while carried by a flyer" },
-  { "Dino": "Equus", "Taming": "Ride and feed while staying mounted without being bucked off" },
-  { "Dino": "Gacha", "Taming": "Drop specific items near it to fill its crafting meter" },
-  { "Dino": "Hesperornis", "Taming": "Drag a live Coelacanth to it and feed repeatedly" },
-  { "Dino": "Ichthyornis", "Taming": "Feed while it holds prey in its beak" },
-  { "Dino": "Liopleurodon", "Taming": "Feed Giant Bee Honey within a short time limit" },
-  { "Dino": "Mantis", "Taming": "Passive tame using specific weapons depending on preference" },
-  { "Dino": "Megachelon", "Taming": "Lure Parakeet Fish Swarms to it while avoiding hostiles" },
-  { "Dino": "Microraptor", "Taming": "Feed while stunned or distracted to avoid dismount attacks" },
-  { "Dino": "Noglin", "Taming": "Let it mind-control creatures and consume their energy" },
-  { "Dino": "Phoenix", "Taming": "Apply continuous fire damage during a superheat event" },
-  { "Dino": "Rock Drake", "Taming": "Steal eggs and hatch them (no direct taming)" },
-  { "Dino": "Roll Rat", "Taming": "Feed Giant Bee Honey while avoiding attacks" },
-  { "Dino": "Sinomacrops", "Taming": "Feed Chitin while staying airborne and avoiding being startled" },
-  { "Dino": "Tropeognathus", "Taming": "Attach explosives and detonate while it is flying" },
-  { "Dino": "Voidwyrm", "Taming": "Feed Mutagen during combat phases without knocking it out" }
-]
+{ 
+  "TamingMethods": 
+  [
+    { "Dino": "Achatina", "Taming": "Feed Sweet Vegetable Cake passively" },
+    { "Dino": "Andrewsarchus", "Taming": "Ride using a saddle and feed while maintaining control and avoiding loss of courage" },
+    { "Dino": "Basilosaurus", "Taming": "Passive tame while killing attacking Mantas between feedings" },
+    { "Dino": "Bloodstalker", "Taming": "Allow it to grab you and consume Blood Packs until tamed" },
+    { "Dino": "Dinopithecus", "Taming": "Passive tame by feeding while avoiding its aggression state" },
+    { "Dino": "Dung Beetle", "Taming": "Feed Spoiled Meat or Feces while carried by a flyer" },
+    { "Dino": "Equus", "Taming": "Ride and feed while staying mounted without being bucked off" },
+    { "Dino": "Gacha", "Taming": "Drop specific items near it to fill its crafting meter" },
+    { "Dino": "Hesperornis", "Taming": "Drag a live Coelacanth to it and feed repeatedly" },
+    { "Dino": "Ichthyornis", "Taming": "Feed while it holds prey in its beak" },
+    { "Dino": "Liopleurodon", "Taming": "Feed Giant Bee Honey within a short time limit" },
+    { "Dino": "Mantis", "Taming": "Passive tame using specific weapons depending on preference" },
+    { "Dino": "Megachelon", "Taming": "Lure Parakeet Fish Swarms to it while avoiding hostiles" },
+    { "Dino": "Microraptor", "Taming": "Feed while stunned or distracted to avoid dismount attacks" },
+    { "Dino": "Noglin", "Taming": "Let it mind-control creatures and consume their energy" },
+    { "Dino": "Phoenix", "Taming": "Apply continuous fire damage during a superheat event" },
+    { "Dino": "Rock Drake", "Taming": "Steal eggs and hatch them (no direct taming)" },
+    { "Dino": "Roll Rat", "Taming": "Feed Giant Bee Honey while avoiding attacks" },
+    { "Dino": "Sinomacrops", "Taming": "Feed Chitin while staying airborne and avoiding being startled" },
+    { "Dino": "Tropeognathus", "Taming": "Attach explosives and detonate while it is flying" },
+    { "Dino": "Voidwyrm", "Taming": "Feed Mutagen during combat phases without knocking it out" }
+  ]
+}
