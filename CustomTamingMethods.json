@@ -1,94 +1,99 @@
-{ 
-  "TamingMethods": [
-    {
-      "Dino": "/Game/PrimalEarth/Dinos/Titanosaur/Titanosaur_Character_BP.Titanosaur_Character_BP_C",
-      "Taming": "Target the head with heavy weapons (Cannons, RPGs, M.S.C.Ms, or Boulders) to add torpor and enable taming",
-      "InASA": true
-    },
-    {
-      "Dino": "/Game/PrimalEarth/Dinos/Otter/Otter_Character_BP.Otter_Character_BP_C",
-      "Taming": "Kill fish and hand-feed them to the Otter (Sabertooth Salmon preferred)",
-      "InASA": true
-    },
-    {
-      "Dino": "/Game/PrimalEarth/Dinos/Hyaenodon/Hyaenodon_Character_BP.Hyaenodon_Character_BP_C",
-      "Taming": "Pet it repeatedly without being attacked",
-      "InASA": true
-    },
-    {
-      "Dino": "/Game/PrimalEarth/Dinos/Pegomastax/Pegomastax_Character_BP.Pegomastax_Character_BP_C",
-      "Taming": "Allow it to steal food from your last hotbar slot",
-      "InASA": true
-    },
-    {
-      "Dino": "/Game/Packs/Frontier/Dinos/Oasisaur/Oasisaur_Character_BP.Oasisaur_Character_BP_C",
-      "Taming": "Harvest Death Essence from a dead tame, place it in the Oasisaur pool, then defend the spirit through enemy waves",
-      "InASA": true
-    },
-    {
-      "Dino": "/Game/ASA/Dinos/Gigantoraptor/Gigantoraptor_Character_BP.Gigantoraptor_Character_BP_C",
-      "Taming": "Only babies can be tamed; distract the adult and mimic baby behavior inside the nest",
-      "InASA": true
-    },
-    {
-      "Dino": "/Game/ASA/Dinos/Ceratosaurus/Dinos/Ceratosaurus_Character_BP_ASA.Ceratosaurus_Character_BP_ASA_C",
-      "Taming": "Use Hemogoblin Cocktails on a tanky tame and let the Ceratosaurus attack to build taming progress",
-      "InASA": true
-    },
-    {
-      "Dino": "/Game/ASA/Dinos/Fasolasuchus/Fasola_Character_BP.Fasola_Character_BP_C",
-      "Taming": "Explode its burrow mound, mount it, then ram rocks until it knocks itself out",
-      "InASA": true
-    },
-    {
-      "Dino": "/Game/ASA/Dinos/FireLion/FireLion_Character_BP.FireLion_Character_BP_C",
-      "Taming": "Lure it into water, damage it, then kill creatures with its flame attacks to progress the tame",
-      "InASA": true
-    },
-    {
-      "Dino": "/Game/Packs/Steampunk/Dinos/JumpingSpider/JumpingSpider_Character_BP.JumpingSpider_Character_BP_C",
-      "Taming": "Red light / green light minigame; move only when allowed and feed appropriate items",
-      "InASA": true
-    },
-    {
-      "Dino": "/Game/ASA/Dinos/YiLing/YiLing_Character_BP.YiLing_Character_BP_C",
-      "Taming": "Trap it, maintain feather stacks, throw Plant Species items at its head, and manage narcotics",
-      "InASA": true
-    },
-    {
-      "Dino": "/Game/ASA/Dinos/Dreadnoughtus/Dreadnoughtus_Character_BP.Dreadnoughtus_Character_BP_C",
-      "Taming": "Lead it to an Element node using Element, then defend it through five enemy waves",
-      "InASA": true
-    },
-    {
-      "Dino": "/Game/ASA/Dinos/DarkPegasus/DarkPegasus_Character_BP.DarkPegasus_Character_BP_C",
-      "Taming": "Kill it to obtain a Dark Altar, provide requested tributes at night, and defeat it repeatedly until tamed",
-      "InASA": true
-    },
-    {
-      "Dino": "/Game/Extinction/Dinos/Enforcer/Enforcer_Character_BP.Enforcer_Character_BP_C",
-      "Taming": "Craft from dropped blueprints obtained by killing wild Enforcers",
-      "InASA": true
-    },
-    {
-      "Dino": "/Game/Packs/Wasteland/Dinos/Doggo/Doggo_Character_BP.Doggo_Character_BP_C",
-      "Taming": "Drop food to attract it, then pet repeatedly until tamed",
-      "InASA": true
-    },
-    {
-      "Dino": "/Game/Extinction/Dinos/IceKaiju/IceKaiju_Character_BP.IceKaiju_Character_BP_C",
-      "Taming": "Destroy corruption nodes on its body without excessive damage",
-      "InASA": true
-    },
-    {
-      "Dino": "/Game/Extinction/Dinos/ForestKaiju/ForestKaiju_Character_BP.ForestKaiju_Character_BP_C",
-      "Taming": "Destroy corruption nodes on its body without excessive damage",
-      "InASA": true
-    },
-    {
-      "Dino": "/Game/Extinction/Dinos/DesertKaiju/DesertKaiju_Character_BP.DesertKaiju_Character_BP_C",
-      "Taming": "Destroy corruption nodes on its body without excessive damage",
-      "InASA": true
-    }
-  ]
+{
+    "TamingMethods": [
+        {
+            "Dino": "/Game/PrimalEarth/Dinos/Titanosaur/Titanosaur_Character_BP.Titanosaur_Character_BP_C",
+            "Taming": "Target the head with heavy weapons (Cannons, RPGs, M.S.C.Ms, or Boulders) to add torpor and enable taming",
+            "InASA": true
+        },
+        {
+            "Dino": "/Game/PrimalEarth/Dinos/Otter/Otter_Character_BP.Otter_Character_BP_C",
+            "Taming": "Kill fish and hand-feed them to the Otter (Sabertooth Salmon preferred)",
+            "InASA": true
+        },
+        {
+            "Dino": "/Game/PrimalEarth/Dinos/Hyaenodon/Hyaenodon_Character_BP.Hyaenodon_Character_BP_C",
+            "Taming": "Pet it repeatedly without being attacked",
+            "InASA": true
+        },
+        {
+            "Dino": "/Game/PrimalEarth/Dinos/Pegomastax/Pegomastax_Character_BP.Pegomastax_Character_BP_C",
+            "Taming": "Allow it to steal food from your last hotbar slot",
+            "InASA": true
+        },
+        {
+            "Dino": "/Game/Packs/Frontier/Dinos/Oasisaur/Oasisaur_Character_BP.Oasisaur_Character_BP_C",
+            "Taming": "Harvest Death Essence from a dead tame, place it in the Oasisaur pool, then defend the spirit through enemy waves",
+            "InASA": true
+        },
+        {
+            "Dino": "/Game/ASA/Dinos/Gigantoraptor/Gigantoraptor_Character_BP.Gigantoraptor_Character_BP_C",
+            "Taming": "Only babies can be tamed; distract the adult and mimic baby behavior inside the nest",
+            "InASA": true
+        },
+        {
+            "Dino": "/Game/ASA/Dinos/Ceratosaurus/Dinos/Ceratosaurus_Character_BP_ASA.Ceratosaurus_Character_BP_ASA_C",
+            "Taming": "Use Hemogoblin Cocktails on a tanky tame and let the Ceratosaurus attack to build taming progress",
+            "InASA": true
+        },
+        {
+            "Dino": "/Game/ASA/Dinos/Fasolasuchus/Fasola_Character_BP.Fasola_Character_BP_C",
+            "Taming": "Explode its burrow mound, mount it, then ram rocks until it knocks itself out",
+            "InASA": true
+        },
+        {
+            "Dino": "/Game/ASA/Dinos/FireLion/FireLion_Character_BP.FireLion_Character_BP_C",
+            "Taming": "Lure it into water, damage it, then kill creatures with its flame attacks to progress the tame",
+            "InASA": true
+        },
+        {
+            "Dino": "/Game/Packs/Steampunk/Dinos/JumpingSpider/JumpingSpider_Character_BP.JumpingSpider_Character_BP_C",
+            "Taming": "Red light / green light minigame; move only when allowed and feed appropriate items",
+            "InASA": true
+        },
+        {
+            "Dino": "/Game/ASA/Dinos/YiLing/YiLing_Character_BP.YiLing_Character_BP_C",
+            "Taming": "Trap it, maintain feather stacks, throw Plant Species items at its head, and manage narcotics",
+            "InASA": true
+        },
+        {
+            "Dino": "/Game/ASA/Dinos/Dreadnoughtus/Dreadnoughtus_Character_BP.Dreadnoughtus_Character_BP_C",
+            "Taming": "Lead it to an Element node using Element, then defend it through five enemy waves",
+            "InASA": true
+        },
+        {
+            "Dino": "/Game/ASA/Dinos/DarkPegasus/DarkPegasus_Character_BP.DarkPegasus_Character_BP_C",
+            "Taming": "Kill it to obtain a Dark Altar, provide requested tributes at night, and defeat it repeatedly until tamed",
+            "InASA": true
+        },
+        {
+            "Dino": "/Game/Extinction/Dinos/Enforcer/Enforcer_Character_BP.Enforcer_Character_BP_C",
+            "Taming": "Craft from dropped blueprints obtained by killing wild Enforcers",
+            "InASA": true
+        },
+        {
+            "Dino": "/Game/Packs/Wasteland/Dinos/Doggo/Doggo_Character_BP.Doggo_Character_BP_C",
+            "Taming": "Drop food to attract it, then pet repeatedly until tamed",
+            "InASA": true
+        },
+        {
+            "Dino": "/Game/Extinction/Dinos/IceKaiju/IceKaiju_Character_BP.IceKaiju_Character_BP_C",
+            "Taming": "Destroy corruption nodes on its body without excessive damage",
+            "InASA": true
+        },
+        {
+            "Dino": "/Game/Extinction/Dinos/ForestKaiju/ForestKaiju_Character_BP.ForestKaiju_Character_BP_C",
+            "Taming": "Destroy corruption nodes on its body without excessive damage",
+            "InASA": true
+        },
+        {
+            "Dino": "/Game/Extinction/Dinos/DesertKaiju/DesertKaiju_Character_BP.DesertKaiju_Character_BP_C",
+            "Taming": "Destroy corruption nodes on its body without excessive damage",
+            "InASA": true
+        },
+        {
+            "Dino": "/Game/ASA/Dinos/Cat/Cat_Character_BP.Cat_Character_BP_C",
+            "Taming": "Each cat will have a different temperament toward any given survivor: either passive, angry, or scared. These behaviors don't affect the Cat once tamed, but since survivors can only tame those that are passive toward them, it restricts who can tame any given Cat. There is no way to obtain a cat that is angry toward or scared of a survivor without another's assistance. For a survivor that they are comfortable around, the Cat is a standard passive tame: approach it with the taming food in the last slot of the hotbar and feed it, repeating until tamed.",
+            "InASA": true
+        }
+    ]
 }
