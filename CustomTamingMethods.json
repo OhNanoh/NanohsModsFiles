@@ -94,6 +94,11 @@
             "Dino": "/Game/ASA/Dinos/Cat/Cat_Character_BP.Cat_Character_BP_C",
             "Taming": "Each cat will have a different temperament toward any given survivor: either passive, angry, or scared. These behaviors don't affect the Cat once tamed, but since survivors can only tame those that are passive toward them, it restricts who can tame any given Cat. There is no way to obtain a cat that is angry toward or scared of a survivor without another's assistance. For a survivor that they are comfortable around, the Cat is a standard passive tame: approach it with the taming food in the last slot of the hotbar and feed it, repeating until tamed.",
             "InASA": true
+        },
+        {
+            "Dino": "/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP_C",
+            "Taming": "Rockdrakes are unable to be tamed in the wild. Instead, you must grab a fertilized Rockdrake egg and hatch it.",
+            "InASA": true
         }
     ]
 }
