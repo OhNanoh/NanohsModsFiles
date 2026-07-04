@@ -19,6 +19,7 @@
       "Dino": "/Game/PrimalEarth/Dinos/Pegomastax/Pegomastax_Character_BP.Pegomastax_Character_BP_C",
       "Taming": "Allow it to steal food from your last hotbar slot",
       "InASA": true,
+      "Lore": "Cheeky little bastards"
     },
     {
       "Dino": "/Game/Packs/Frontier/Dinos/Oasisaur/Oasisaur_Character_BP.Oasisaur_Character_BP_C",
