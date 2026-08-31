@@ -431,6 +431,12 @@
       "Taming": "Crouch and approach it from behind, then claim it when the prompt appears.",
       "InASA": true,
       "p2w": false
-    }
+    },
+    {
+  "Dino": "/PA_EVO_Pack_01/Dinos/EVO_Rex/EVO_Rex_Character_BP.EVO_Rex_Character_BP",
+  "Taming": "Drag a large creature corpse to the EVO Rex to gain its trust, then mount it and hunt the targets it marks.",
+  "InASA": true,
+  "p2w": false
+  }
   ]
 }
