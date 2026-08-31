@@ -1,244 +1,436 @@
 {
   "TamingMethods": [
     {
-      "Dino": "/Game/PrimalEarth/Dinos/Titanosaur/Titanosaur_Character_BP.Titanosaur_Character_BP_C",
+      "Dino": "/Game/PrimalEarth/Dinos/Titanosaur/Titanosaur_Character_BP",
       "Taming": "Target the head with heavy weapons (Cannons, RPGs, M.S.C.Ms, or Boulders) to add torpor and enable taming",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/PrimalEarth/Dinos/Otter/Otter_Character_BP.Otter_Character_BP_C",
+      "Dino": "/Game/PrimalEarth/Dinos/Otter/Otter_Character_BP",
       "Taming": "Kill fish and hand-feed them to the Otter (Sabertooth Salmon preferred)",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/PrimalEarth/Dinos/Hyaenodon/Hyaenodon_Character_BP.Hyaenodon_Character_BP_C",
+      "Dino": "/Game/PrimalEarth/Dinos/Hyaenodon/Hyaenodon_Character_BP",
       "Taming": "Pet it repeatedly without being attacked",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/PrimalEarth/Dinos/Pegomastax/Pegomastax_Character_BP.Pegomastax_Character_BP_C",
+      "Dino": "/Game/PrimalEarth/Dinos/Pegomastax/Pegomastax_Character_BP",
       "Taming": "Allow it to steal food from your last hotbar slot",
       "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/Packs/Frontier/Dinos/Oasisaur/Oasisaur_Character_BP.Oasisaur_Character_BP_C",
+      "Dino": "/Game/Packs/Frontier/Dinos/Oasisaur/Oasisaur_Character_BP",
       "Taming": "Harvest Death Essence from a dead tame, place it in the Oasisaur pool, then defend the spirit through enemy waves",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/ASA/Dinos/Gigantoraptor/Gigantoraptor_Character_BP.Gigantoraptor_Character_BP_C",
+      "Dino": "/Game/ASA/Dinos/Gigantoraptor/Gigantoraptor_Character_BP",
       "Taming": "Only babies can be tamed; distract the adult and mimic baby behavior inside the nest",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/ASA/Dinos/Ceratosaurus/Dinos/Ceratosaurus_Character_BP_ASA.Ceratosaurus_Character_BP_ASA_C",
+      "Dino": "/Game/ASA/Dinos/Ceratosaurus/Dinos/Ceratosaurus_Character_BP_ASA",
       "Taming": "Use Hemogoblin Cocktails on a tanky tame and let the Ceratosaurus attack to build taming progress",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/ASA/Dinos/Fasolasuchus/Fasola_Character_BP.Fasola_Character_BP_C",
+      "Dino": "/Game/ASA/Dinos/Fasolasuchus/Fasola_Character_BP",
       "Taming": "Explode its burrow mound, mount it, then ram rocks until it knocks itself out",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/ASA/Dinos/FireLion/FireLion_Character_BP.FireLion_Character_BP_C",
-      "Taming": "Lure it into water, damage it, then kill creatures with its flame attacks to progress the tame",
-      "InASA": true
-    },
-    {
-      "Dino": "/Game/Packs/Steampunk/Dinos/JumpingSpider/JumpingSpider_Character_BP.JumpingSpider_Character_BP_C",
+      "Dino": "/Game/Packs/Steampunk/Dinos/JumpingSpider/JumpingSpider_Character_BP",
       "Taming": "Red light / green light minigame; move only when allowed and feed appropriate items",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/ASA/Dinos/YiLing/YiLing_Character_BP.YiLing_Character_BP_C",
+      "Dino": "/Game/ASA/Dinos/YiLing/YiLing_Character_BP",
       "Taming": "Trap it, maintain feather stacks, throw Plant Species items at its head, and manage narcotics",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/ASA/Dinos/Dreadnoughtus/Dreadnoughtus_Character_BP.Dreadnoughtus_Character_BP_C",
+      "Dino": "/Game/ASA/Dinos/Dreadnoughtus/Dreadnoughtus_Character_BP",
       "Taming": "Lead it to an Element node using Element, then defend it through five enemy waves",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/ASA/Dinos/DarkPegasus/DarkPegasus_Character_BP.DarkPegasus_Character_BP_C",
-      "Taming": "Kill it to obtain a Dark Altar, provide requested tributes at night, and defeat it repeatedly until tamed",
-      "InASA": true
-    },
-    {
-      "Dino": "/Game/Extinction/Dinos/Enforcer/Enforcer_Character_BP.Enforcer_Character_BP_C",
+      "Dino": "/Game/Extinction/Dinos/Enforcer/Enforcer_Character_BP",
       "Taming": "Craft from dropped blueprints obtained by killing wild Enforcers",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/Packs/Wasteland/Dinos/Doggo/Doggo_Character_BP.Doggo_Character_BP_C",
+      "Dino": "/Game/Packs/Wasteland/Dinos/Doggo/Doggo_Character_BP",
       "Taming": "Drop food to attract it, then pet repeatedly until tamed",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/Extinction/Dinos/IceKaiju/IceKaiju_Character_BP.IceKaiju_Character_BP_C",
+      "Dino": "/Game/Extinction/Dinos/IceKaiju/IceKaiju_Character_BP",
       "Taming": "Destroy corruption nodes on its body without excessive damage",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/Extinction/Dinos/ForestKaiju/ForestKaiju_Character_BP.ForestKaiju_Character_BP_C",
+      "Dino": "/Game/Extinction/Dinos/ForestKaiju/ForestKaiju_Character_BP",
       "Taming": "Destroy corruption nodes on its body without excessive damage",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/Extinction/Dinos/DesertKaiju/DesertKaiju_Character_BP.DesertKaiju_Character_BP_C",
+      "Dino": "/Game/Extinction/Dinos/DesertKaiju/DesertKaiju_Character_BP",
       "Taming": "Destroy corruption nodes on its body without excessive damage",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/ASA/Dinos/Cat/Cat_Character_BP.Cat_Character_BP_C",
+      "Dino": "/Game/ASA/Dinos/Cat/Cat_Character_BP",
       "Taming": "Each cat will have a different temperament toward any given survivor: either passive, angry, or scared. These behaviors don't affect the Cat once tamed, but since survivors can only tame those that are passive toward them, it restricts who can tame any given Cat. There is no way to obtain a cat that is angry toward or scared of a survivor without another's assistance. For a survivor that they are comfortable around, the Cat is a standard passive tame: approach it with the taming food in the last slot of the hotbar and feed it, repeating until tamed.",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP_C",
+      "Dino": "/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP",
       "Taming": "Rockdrakes are unable to be tamed in the wild. Instead, you must grab a fertilized Rockdrake egg and hatch it.",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP_C",
+      "Dino": "/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP",
       "Taming": "Place taming food (Rockarrot preferred, or crops/berries) in your last hotbar slot, approach while crouching (Ghillie armor helps), feed it when prompted, then immediately mount it. Calm the Equus by feeding it again each time the taming bar starts to drop while riding. It will try to buck you off; stay on and keep feeding until taming completes.",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/PrimalEarth/Dinos/BoaFrill/BoaFrill_Character_BP.BoaFrill_Character_BP_C",
+      "Dino": "/Game/PrimalEarth/Dinos/BoaFrill/BoaFrill_Character_BP",
       "Taming": "Drop fertilized eggs directly on the ground near the Titanoboa (do not throw them from a tame's inventory). The snake will approach and eat them. Use higher-tier kibble eggs for best efficiency. Do not attack it or let it take damage during the process.",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/PrimalEarth/Dinos/Troodon/Troodon_Character_BP.Troodon_Character_BP_C",
-      "Taming": "Sacrifice your own tamed creatures to the Troodon. It gains taming progress by killing your tames. Higher-level tames grant more progress. The process works most efficiently at night. You retain 0% taming effectiveness loss since it does not eat conventionally; any level Troodon can be tamed to 100% effectiveness this way.",
-      "InASA": true
-    },
-    {
-      "Dino": "/Game/PrimalEarth/Dinos/Liopleurodon/Liopleurodon_Character_BP.Liopleurodon_Character_BP_C",
+      "Dino": "/Game/PrimalEarth/Dinos/Liopleurodon/Liopleurodon_Character_BP",
       "Taming": "Passive tame using Giant Bee Honey dropped near it in the ocean. Approach without a tame as it will aggro onto them. NOTE: The Liopleurodon automatically disappears after 30 minutes once tamed; tame it only when you need its loot-boost buff.",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/PrimalEarth/Dinos/Hesperornis/Hesperornis_Character_BP.Hesperornis_Character_BP_C",
+      "Dino": "/Game/PrimalEarth/Dinos/Hesperornis/Hesperornis_Character_BP",
       "Taming": "Kill fish (Sabertooth Salmon or Coelacanth) and drag the dead fish body to the Hesperornis to feed it. Do not throw the fish; walk it over and hold the feed button when prompted. Repeat until tamed.",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/PrimalEarth/Dinos/Andrewsarchus/Andrewsarchus_Character_BP.Andrewsarchus_Character_BP_C",
+      "Dino": "/Game/PrimalEarth/Dinos/Andrewsarchus/Andrewsarchus_Character_BP",
       "Taming": "Drop Giant Bee Honey near it to distract it, then forcibly mount it while it is eating. Once mounted, hold the correct directional input to keep momentum and steer it. Feed it honey from the last hotbar slot to calm it when it bucks. It will occasionally kick you off; return and remount while feeding more honey.",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/Extinction/Dinos/Gacha/Gacha_Character_BP.Gacha_Character_BP_C",
+      "Dino": "/Game/Extinction/Dinos/Gacha/Gacha_Character_BP",
       "Taming": "Drop items from your inventory onto the ground near the Gacha. It will eat almost anything, but prefers structures (e.g., Thatch Foundation) dropped in stacks of 10 for maximum taming efficiency. Do not attack it.",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/Extinction/Dinos/RollRat/RollRat_Character_BP.RollRat_Character_BP_C",
-      "Taming": "Throw Giant Bee Honey at or near the Roll Rat's burrow entrance while it is underground. It will emerge to eat the honey. Do not attack it; wait for it to return underground, then throw more honey when prompted.",
-      "InASA": true
-    },
-    {
-      "Dino": "/Game/ScorchedEarth/Dinos/Phoenix/Phoenix_Character_BP.Phoenix_Character_BP_C",
-      "Taming": "Only tameable during a Heat Wave on Scorched Earth. You must continuously set it on fire using a Fire Wyvern's breath or a Flamethrower while it is in its grounded state. Each time it is burned, its taming progress increases. It will reignite mid-tame; keep burning it until the bar fills.",
-      "InASA": true
-    },
-    {
-      "Dino": "/Game/Genesis/Dinos/Shapeshifter/Shapeshifter_Small/Shapeshifter_Small_Character_BP.Shapeshifter_Small_Character_BP_C",
-      "Taming": "Feed it Element from your last hotbar slot while it is in its small form. After each feeding it transforms into its large, aggressive form and attacks; retreat and wait for it to revert to small form before feeding again. Repeat until tamed.",
-      "InASA": true
-    },
-    {
-      "Dino": "/Game/Fjordur/Dinos/Fjordhawk/Fjordhawk_Character_BP.Fjordhawk_Character_BP_C",
-      "Taming": "Kill creatures near the wild Fjordhawk to build taming progress. Higher-level kills grant more progress. Do not attack the Fjordhawk itself. Once taming is complete, it will land on your shoulder.",
-      "InASA": true
-    },
-    {
-      "Dino": "/Game/Genesis2/Dinos/Shadowmane/Shadowmane_Character_BP.Shadowmane_Character_BP_C",
-      "Taming": "Passive tame using a Filled Fish Basket (1.5x fish preferred for best efficiency). The Shadowmane only eats while resting (afternoon). Sneak up while it is lying down and feed it from your last hotbar slot. After each feeding it teleports a short random distance; track it via the HUD and repeat. Do not attack it.",
-      "InASA": true
-    },
-    {
-      "Dino": "/Game/Genesis2/Dinos/Noglin/Noglin_Character_BP.Noglin_Character_BP_C",
-      "Taming": "Let the wild Noglin attach to and mind-control your tamed creatures. Higher-level tames sacrificed to its control grant more taming progress. Survive the Noglin's assault without engaging in combat. Repeat feedings of controlled tames until taming completes.",
-      "InASA": true
-    },
-    {
-      "Dino": "/Game/Genesis/Dinos/Megachelon/Megachelon_Character_BP.Megachelon_Character_BP_C",
-      "Taming": "Lure a school of Parakeet Fish toward the submerged Megachelon's underbelly to clean its barnacles and trigger taming progress. The Megachelon must not take any damage during the process. Fish schools are typically found away from the Megachelon's spawn; bring them to it and keep them near its belly.",
-      "InASA": true
-    },
-    {
-      "Dino": "/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Male.Xenomorph_Character_BP_Male_C",
+      "Dino": "/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Male",
       "Taming": "Cannot be tamed directly. A Reaper Queen must impregnate a survivor by grabbing them at low health (under ~2000 HP) while under the effect of a Reaper Pheromone Gland. The Reaper King baby gestates inside the survivor and is born after roughly 12 in-game hours, killing the survivor upon birth. Raise the baby with Nameless Venom for imprinting.",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire_C",
+      "Dino": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire",
       "Taming": "Cannot be tamed as adults. Steal a fertilized Fire Wyvern egg from a nest in the Wyvern Scar (or equivalent on other maps), hatch it, and raise the baby. Feed it Wyvern Milk during the baby stage for imprinting. Kill a female Wyvern to obtain Wyvern Milk.",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning_C",
+      "Dino": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning",
       "Taming": "Cannot be tamed as adults. Steal a fertilized Lightning Wyvern egg from a nest, hatch it, and raise the baby. Feed it Wyvern Milk during the baby stage for imprinting.",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Poison.Wyvern_Character_BP_Poison_C",
+      "Dino": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Poison",
       "Taming": "Cannot be tamed as adults. Steal a fertilized Poison Wyvern egg from a nest, hatch it, and raise the baby. Feed it Wyvern Milk during the baby stage for imprinting.",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Ice.Wyvern_Character_BP_Ice_C",
+      "Dino": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Ice",
       "Taming": "Cannot be tamed as adults. Steal a fertilized Ice Wyvern egg from cold-region nests (Ragnarok, Fjordur), hatch it, and raise the baby. Feed it Wyvern Milk during the baby stage for imprinting.",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/Fjordur/Dinos/Deinonychus/Deinonychus_Character_BP.Deinonychus_Character_BP_C",
-      "Taming": "Cannot be tamed as adults. Steal a fertilized Deinonychus egg from a nest (defended by the pack), hatch it, and raise the baby.",
-      "InASA": true
-    },
-    {
-      "Dino": "/Game/Genesis/Dinos/Magmasaur/Magmasaur_Character_BP.Magmasaur_Character_BP_C",
-      "Taming": "Cannot be tamed as adults. Steal a fertilized Magmasaur egg from the Volcano biome on Genesis Part 1, hatch it in high heat (lava pools or multiple Standing Torches), and raise the baby. Feed it Ambergris during the baby stage for imprinting.",
-      "InASA": true
-    },
-    {
-      "Dino": "/Game/Genesis2/Dinos/Voidwyrm/Voidwyrm_Character_BP.Voidwyrm_Character_BP_C",
+      "Dino": "/Game/Genesis2/Dinos/Voidwyrm/Voidwyrm_Character_BP",
       "Taming": "Passive tame using Mutagen. Approach the Voidwyrm in the Space Void of Genesis Part 2 and feed it Mutagen from your last hotbar slot. It will flee after each feeding; chase it down and repeat. Mutagen is rare and obtained by mining specific asteroids.",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/PrimalEarth/Dinos/Rhyniognatha/Rhyniognatha_Character_BP.Rhyniognatha_Character_BP_C",
-      "Taming": "Kill a male Rhyniognatha to obtain a Rhyniognatha Pheromone. Wound a female to roughly 10% health, then use the pheromone on a tamed creature of at least 300 drag weight (higher drag weight and level yield better baby stats; 900 drag weight recommended). The female will impregnate that creature, which will then gestate and eventually give birth to a baby Rhyniognatha — killing the host. Provide imprinting foods during gestation to maximize stats.",
-      "InASA": true
-    },
-    {
-      "Dino": "/Game/Genesis2/Dinos/Dinopithecus/Dinopithecus_Character_BP.Dinopithecus_Character_BP_C",
+      "Dino": "/Game/Genesis2/Dinos/Dinopithecus/Dinopithecus_Character_BP",
       "Taming": "The Dinopithecus alpha can only be passive tamed after all other members of its pack are dead and it is attempting to flee. Once it is alone and fleeing, approach it and feed it from your last hotbar slot as a standard passive tame.",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/LostIsland/Dinos/Amargasaurus/Amargasaurus_Character_BP.Amargasaurus_Character_BP_C",
+      "Dino": "/Game/LostIsland/Dinos/Amargasaurus/Amargasaurus_Character_BP",
       "Taming": "Synchronize your temperature with the Amargasaurus by matching its current element type (fire or ice) using appropriate consumables. Once synchronized, it will temporarily follow you. Kill aggressive creatures around it while it follows to build taming progress. Feed it between kills when prompted. Repeat until tamed.",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/Genesis2/Dinos/Carcharodontosaurus/Carcharodontosaurus_Character_BP.Carcharodontosaurus_Character_BP_C",
+      "Dino": "/Game/Genesis2/Dinos/Carcharodontosaurus/Carcharodontosaurus_Character_BP",
       "Taming": "Feed it large creature corpses by dragging them to it. Each kill or corpse fed builds taming progress. It may temporarily become rideable mid-tame; use this phase to lead it to more kills. Be ready to flee if it finishes eating and becomes aggressive again. Higher-quality kills (larger, higher-level creatures) grant more progress.",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/Aberration/Dinos/Shastasaurus/Shastasaurus_Character_BP.Shastasaurus_Character_BP_C",
+      "Dino": "/Game/Aberration/Dinos/Shastasaurus/Shastasaurus_Character_BP",
       "Taming": "Attract the Shastasaurus's attention using a nearby tamed Ichthyosaurus. Once it approaches, use a Sickle to remove all leeches from its body. Then feed it from your last hotbar slot when prompted. Repeat the leech-removal and feeding cycle until tamed.",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
     },
     {
-      "Dino": "/Game/Genesis2/Dinos/GiantBee/GiantBee_Character_BP.GiantBee_Character_BP_C",
+      "Dino": "/Game/Genesis2/Dinos/GiantBee/GiantBee_Character_BP",
       "Taming": "Destroy a wild Bee Hive to cause the Giant Queen Bee to emerge. Immediately approach and feed it Simple Kibble or Rare Flowers from your last hotbar slot while avoiding the drone bees. Wearing full Ghillie Armor and using Bug Repellant greatly reduces aggro from the drones.",
-      "InASA": true
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP",
+      "Taming": "Damage it until it enters shield stance and performs the feeding roar, then feed it Biotoxin or Narcotic. Repeat until it knocks out; avoid the fake roar.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/Genesis/Dinos/SpaceWhale/SpaceWhale_Character_BP",
+      "Taming": "Knock it out by hitting its head with cannon shots. A Cannon mounted on a Tek Skiff is commonly used.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/Genesis2/Dinos/SpaceDolphin/SpaceDolphin_Character_BP",
+      "Taming": "Pet it several times, then feed it Element. Repeat until tamed. Element requirements cycle through 1, 3, 5, and 10 per feeding.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/LostColony/Dinos/SnowDragon/SnowDragon_Character_BP",
+      "Taming": "Mount it and give it the requested gifts until the taming bar is complete. It will then produce an egg that must be defended from five waves of Neophytes before it can be claimed and raised.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/Genesis/Dinos/BogSpider/BogSpider_Character_BP",
+      "Taming": "Carry Blood Packs and allow the Bloodstalker to grab and consume them. Letting it feed on tamed creatures first can increase taming effectiveness.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/PrimalEarth/Dinos/Coelacanth/Coel_Character_BP",
+      "Taming": "Can only be tamed using a Fish Basket.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/ASA/Dinos/Concavenator/Concavenator_Character_BP",
+      "Taming": "Stun it while it is gliding through the sand using explosives or a Tek Rifle, then mount it and complete four directional aerial tricks before the timer expires. Repeat until tamed.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/ASA/Dinos/Cryolophosaurus/Cryolophosaurus_Character_BP",
+      "Taming": "Use a shield to deflect its torpor projectiles back at it until it is knocked unconscious, then feed it like a standard knockout tame.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/PrimalEarth/Dinos/Raptor/Uberraptor/Deinonychus_Character_BP",
+      "Taming": "Can only be tamed by stealing an egg and raising the Deinonychus from it.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/ASA/Dinos/Deinotherium/Dinos/DeinotheriumASA_Character_BP",
+      "Taming": "Put Beer in your last slot, approach until it begins its taming behavior, and wait for it to finish all animations. Then walk under its head and let it take the Beer. Repeat until tamed.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP",
+      "Taming": "Equip a torch to lure it onto your shoulder, then complete its timed XP task on foot by harvesting, crafting, or killing creatures. Once the XP bar is full, feed it from your last hotbar slot and repeat until tamed.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/ASA/Dinos/DarkPegasus/DarkPegasus_Character_BP",
+      "Taming": "Kill it at night to obtain its Dark Altar, place the altar and provide the requested tribute, then kill the Dreadmare again to increase taming progress. Repeat the tribute and battle cycle until tamed.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/ASA/Dinos/SpiritBear/SpiritBear_Character_BP",
+      "Taming": "Kill a wild Elderclaw to obtain its seed, then plant it in a Large Crop Plot and keep it fertilized and irrigated. Provide the requested resources during growth until it becomes a baby Elderclaw, then raise it to adulthood.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/Genesis/Dinos/Shapeshifter/Shapeshifter_Small/Shapeshifter_Small_Character_BP",
+      "Taming": "Use Element near it to trigger its transformation, survive its larger form, then use Element near it again. Repeat until tamed.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/Fjordur/Dinos/Fjordhawk/Fjordhawk_Character_BP",
+      "Taming": "Kill creatures near it and allow the Fjordhawk to eat their corpses. Taming progress varies based on the creature it consumes.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/LostColony/Dinos/BossBat/BossBat_Character_BP",
+      "Taming": "Defeat the Lost King boss to receive a Gigadesmodus Egg, then hatch and raise it.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/LostColony/Dinos/LostChargePet/LostCharge_LanternPet_Char_BP",
+      "Taming": "Kill the Revenants around it, then crouch and shoot both eyes until it deflates and hovers near the ground. Approach and feed it.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/ASA/Dinos/Helicoprion/Helicoprion_Character_BP",
+      "Taming": "Drop a loot-crate item for it to consume, then mount it during its frenzy and complete the repeated stay-mounted prompts. After 10 successful prompts, it will consume a Little Ratfish Treat. Repeat until tamed.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/Dragontopia/Dragons/Eclipsar/Lumina/Lumina_Character_BP",
+      "Taming": "Reduce its health to about 25%, then let it pick you up and complete three minigames before feeding it. Repeat until tamed.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/Genesis/Dinos/Cherufe/Cherufe_Character_BP",
+      "Taming": "Steal a Magmasaur Egg, then hatch and raise it.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/LostColony/Dinos/DevilFox/DevilFox_Character_BP",
+      "Taming": "Use a tamed Veilwyn in Companion Mode to perform the wild Malwyn's requested emotes 10 times and claim Corrupted Vulpite. Raise the Veilwyn's Adventure! buff to 100%, then force feed it the Corrupted Vulpite to evolve it into a Malwyn.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/Genesis/Dinos/GiantTurtle/GiantTurtle_Character_BP",
+      "Taming": "Lure a small fish swarm to the Megachelon, then swim alongside it while the swarm follows until it is tamed.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/ASA/Dinos/Megaraptor/ValMegaraptor_Character_BP",
+      "Taming": "Find its nearby altar, equip a torch, and activate it to begin the minigame. Strike the Megaraptor each time it appears before it attacks you, repeating until it is knocked out.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/Genesis2/Dinos/BrainSlug/BrainSlug_Character_BP",
+      "Taming": "Allow the Noglin to latch onto and mind-control your own tamed creatures until its taming progress is complete.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/LostColony/Dinos/SnowMonster/SnowMonster_Character_BP",
+      "Taming": "Raise its torpor to 50% to daze and mount it, then complete the Bolus minigame by collecting ice spears and small creatures while avoiding large creatures. After each round, let it heal by eating corpses, then repeat until tamed.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/Packs/TidesOfFortune/Dinos/Paleoctopus/Palaeoctopus_Character_BP",
+      "Taming": "Let it grab you, then feed it Narcotics each time it performs its large bite and triggers a camera shake. Repeat until it is knocked out, then feed it like a standard knockout tame.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/ScorchedEarth/Dinos/Phoenix/Phoenix_Character_BP",
+      "Taming": "Damage it with fire using Flame Arrows, a Flamethrower, or a Fire Wyvern until tamed. Higher weapon damage increases taming speed.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/ASA/Dinos/FireLion/FireLion_Character_BP",
+      "Taming": "Douse it with water or rain, then damage it until you can mount it. While riding, kill creatures and absorb their flames to increase taming progress. Repeat until tamed.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP",
+      "Taming": "Kill a male for Rhyniognatha Pheromone, then weaken a female below 10% health and have a large tame consume the Pheromone so it can be impregnated. Feed the host the five requested foods until the Rhyniognatha is born.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/Aberration/Dinos/MoleRat/MoleRat_Character_BP",
+      "Taming": "Wait for it to burrow underground, then drop the required food into its burrow. Repeat until tamed.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/Genesis2/Dinos/LionfishLion/LionfishLion_Character_BP",
+      "Taming": "Sneak up on it while it is sleeping and feed it a Filled Fish Basket with a fish of at least 0.5x size. Repeat until tamed.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/LostColony/Dinos/AngelFox/AngelFox_Character_BP",
+      "Taming": "Use a tamed Veilwyn in Companion Mode to perform the wild Solwyn's requested emotes 10 times and claim Pristine Vulpite. Raise the Veilwyn's Adventure! buff to 100%, then force feed it the Pristine Vulpite to evolve it into a Solwyn.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/Genesis2/Dinos/TekStrider/TekStrider_Character_BP",
+      "Taming": "Complete the required number of missions, then hack the Tek Stryder using Mutagel. Both the mission requirement and Mutagel cost increase with its level.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/Packs/TidesOfFortune/Dinos/Axolotl/Axolotl_Small/Axolotl_Small_Character_BP",
+      "Taming": "Lower one of your own creatures below 10% health and let the Tidepup heal it. While the Tidepup is resting afterward, feed it the required food. Repeat until tamed.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/PrimalEarth/Dinos/Troodon/Troodon_Character_BP",
+      "Taming": "Allow it to kill your tamed creatures to gain taming progress. Higher-level sacrifices are more effective because they provide more XP.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/Dragontopia/Dragons/Eclipsar/Umbra/Umbra_Character_BP",
+      "Taming": "Grapple it with a Drake Claw to mount it, then complete three minigames before feeding it the required food. Repeat until tamed.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP",
+      "Taming": "Crouch and approach it from behind, then claim it when the prompt appears.",
+      "InASA": true,
+      "p2w": false
     }
   ]
 }
