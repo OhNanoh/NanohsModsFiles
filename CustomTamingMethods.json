@@ -272,21 +272,21 @@
     },
     {
       "Dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP",
-      "Taming": "Equip a torch to lure it onto your shoulder, then complete its timed XP task on foot by harvesting, crafting, or killing creatures. Once the XP bar is full, feed it from your last hotbar slot and repeat until tamed.",
+      "Taming": "PAY TO WIN DINO, SHAME ON YOU WILD CARD\nEquip a torch to lure it onto your shoulder, then complete its timed XP task on foot by harvesting, crafting, or killing creatures. Once the XP bar is full, feed it from your last hotbar slot and repeat until tamed.",
       "InASA": true,
-      "p2w": false
+      "p2w": true
     },
     {
       "Dino": "/Game/ASA/Dinos/DarkPegasus/DarkPegasus_Character_BP",
-      "Taming": "Kill it at night to obtain its Dark Altar, place the altar and provide the requested tribute, then kill the Dreadmare again to increase taming progress. Repeat the tribute and battle cycle until tamed.",
+      "Taming": "PAY TO WIN DINO, SHAME ON YOU WILD CARD\nKill it at night to obtain its Dark Altar, place the altar and provide the requested tribute, then kill the Dreadmare again to increase taming progress. Repeat the tribute and battle cycle until tamed.",
       "InASA": true,
-      "p2w": false
+      "p2w": true
     },
     {
       "Dino": "/Game/ASA/Dinos/SpiritBear/SpiritBear_Character_BP",
-      "Taming": "Kill a wild Elderclaw to obtain its seed, then plant it in a Large Crop Plot and keep it fertilized and irrigated. Provide the requested resources during growth until it becomes a baby Elderclaw, then raise it to adulthood.",
+      "Taming": "PAY TO WIN DINO, SHAME ON YOU WILD CARD\nKill a wild Elderclaw to obtain its seed, then plant it in a Large Crop Plot and keep it fertilized and irrigated. Provide the requested resources during growth until it becomes a baby Elderclaw, then raise it to adulthood.",
       "InASA": true,
-      "p2w": false
+      "p2w": true
     },
     {
       "Dino": "/Game/Genesis/Dinos/Shapeshifter/Shapeshifter_Small/Shapeshifter_Small_Character_BP",
@@ -374,9 +374,9 @@
     },
     {
       "Dino": "/Game/ASA/Dinos/FireLion/FireLion_Character_BP",
-      "Taming": "Douse it with water or rain, then damage it until you can mount it. While riding, kill creatures and absorb their flames to increase taming progress. Repeat until tamed.",
+      "Taming": "PAY TO WIN DINO, SHAME ON YOU WILD CARD\nDouse it with water or rain, then damage it until you can mount it. While riding, kill creatures and absorb their flames to increase taming progress. Repeat until tamed.",
       "InASA": true,
-      "p2w": false
+      "p2w": true
     },
     {
       "Dino": "/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP",
