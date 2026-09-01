@@ -635,6 +635,84 @@
       "Taming": "Feed a sleeping Zaldrir Raw Mutton, then feed it tamed live sheep and hunt large creatures once it becomes rideable.",
       "InASA": true,
       "p2w": false
-    }
+    },
+    {
+  "Dino": "/WAK_Spinosaurus/Dino/Wak_Spinosaurus_Character_BP.Wak_Spinosaurus_Character_BP",
+  "Taming": "Consume Fish Soup to pacify the WAK Spino, then kill wild carnivores on foot to increase taming progress. Better weapons tame it faster.",
+  "InASA": true,
+  "p2w": false
+},
+{
+  "Dino": "/WAK_Spinosaurus/Dino/Variants/SE/Scorched_Wak_Spinosaurus_Character_BP.Scorched_Wak_Spinosaurus_Character_BP",
+  "Taming": "Consume Fish Soup to pacify the WAK Spino, then kill wild carnivores on foot to increase taming progress. Better weapons tame it faster.",
+  "InASA": true,
+  "p2w": false
+},
+    {
+  "Dino": "/MeraxesTLC/MeraxesTLC/MeraxesBA_Character_BP.MeraxesBA_Character_BP",
+  "Taming": "Let the Meraxes eat your tamed baby dinosaurs to increase taming progress. Baby level and XP matter, and babies must be set to Neutral. Carcha, Giga, Spino, Yutyrannus and Rex babies are recommended.",
+  "InASA": true,
+  "p2w": false
+},
+{
+  "Dino": "/MeraxesTLC/MeraxesTLC/Variants/Arkology/Arkology_MeraxesBA_Character_BP.Arkology_MeraxesBA_Character_BP",
+  "Taming": "Let the Meraxes eat your tamed baby dinosaurs to increase taming progress. Baby level and XP matter, and babies must be set to Neutral. Carcha, Giga, Spino, Yutyrannus and Rex babies are recommended.",
+  "InASA": true,
+  "p2w": false
+},
+{
+  "Dino": "/MeraxesTLC/MeraxesTLC/Variants/Genesis_X/X_MeraxesBA_Character_BP.X_MeraxesBA_Character_BP",
+  "Taming": "Let the Meraxes eat your tamed baby dinosaurs to increase taming progress. Baby level and XP matter, and babies must be set to Neutral. Carcha, Giga, Spino, Yutyrannus and Rex babies are recommended.",
+  "InASA": true,
+  "p2w": false
+},
+{
+  "Dino": "/MeraxesTLC/MeraxesTLC/Variants/Paleo/PA_MeraxesBA_Character_BP.PA_MeraxesBA_Character_BP",
+  "Taming": "Let the Meraxes eat your tamed baby dinosaurs to increase taming progress. Baby level and XP matter, and babies must be set to Neutral. Carcha, Giga, Spino, Yutyrannus and Rex babies are recommended.",
+  "InASA": true,
+  "p2w": false
+},
+{
+  "Dino": "/MeraxesTLC/MeraxesTLC/Variants/SE/ScorchedMeraxesBA_Character_BP.ScorchedMeraxesBA_Character_BP",
+  "Taming": "Let the Meraxes eat your tamed baby dinosaurs to increase taming progress. Baby level and XP matter, and babies must be set to Neutral. Carcha, Giga, Spino, Yutyrannus and Rex babies are recommended.",
+  "InASA": true,
+  "p2w": false
+},
+{
+  "Dino": "/MeraxesTLC/MeraxesTLC/Variants/TEK/TEK_MeraxesBA_Character_BP.TEK_MeraxesBA_Character_BP",
+  "Taming": "Let the Meraxes eat your tamed baby dinosaurs to increase taming progress. Baby level and XP matter, and babies must be set to Neutral. Carcha, Giga, Spino, Yutyrannus and Rex babies are recommended.",
+  "InASA": true,
+  "p2w": false
+},
+    {
+  "Dino": "/Tyrannodominator/Content/Tyrannodominator/Tyranno_Character_BP.Tyranno_Character_BP",
+  "Taming": "Trap the Tyrannodominator and fire cannon rockets at its head while it roars to knock it unconscious. Once down, feed it Extraordinary Kibble or Raw Mutton.",
+  "InASA": true,
+  "p2w": false
+},
+{
+  "Dino": "/Tyrannodominator/Content/Tyrannodominator/Varients/AB_Tyranno_Character_BP_Child.AB_Tyranno_Character_BP_Child",
+  "Taming": "Trap the Tyrannodominator and fire cannon rockets at its head while it roars to knock it unconscious. Once down, feed it Extraordinary Kibble or Raw Mutton.",
+  "InASA": true,
+  "p2w": false
+},
+{
+  "Dino": "/Tyrannodominator/Content/Tyrannodominator/Varients/Arkology_Tyranno_Character_BP_Child.Arkology_Tyranno_Character_BP_Child",
+  "Taming": "Trap the Tyrannodominator and fire cannon rockets at its head while it roars to knock it unconscious. Once down, feed it Extraordinary Kibble or Raw Mutton.",
+  "InASA": true,
+  "p2w": false
+},
+{
+  "Dino": "/Tyrannodominator/Content/Tyrannodominator/Varients/EX_Tyranno_Character_BP_Child.EX_Tyranno_Character_BP_Child",
+  "Taming": "Trap the Tyrannodominator and fire cannon rockets at its head while it roars to knock it unconscious. Once down, feed it Extraordinary Kibble or Raw Mutton.",
+  "InASA": true,
+  "p2w": false
+},
+{
+  "Dino": "/Tyrannodominator/Content/Tyrannodominator/Varients/SE_Tyranno_Character_BP.SE_Tyranno_Character_BP",
+  "Taming": "Trap the Tyrannodominator and fire cannon rockets at its head while it roars to knock it unconscious. Once down, feed it Extraordinary Kibble or Raw Mutton.",
+  "InASA": true,
+  "p2w": false
+}
   ]
 }
